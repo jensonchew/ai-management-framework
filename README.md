@@ -1,4 +1,4 @@
-# ai-management-framework
+# AI Management Framework
 A practical framework for AI-enabled project, program, and portfolio management, with clear governance, execution structure, and public adoption guidance.
 
 Use this repository as a reusable baseline, then tailor ownership, controls, and delivery steps to your organization.

@@ -36,7 +36,6 @@
 - `thought-leadership-themes.md` - themes for writing and sharing
 - `public-sharing-guidelines.md` - safe and reusable public content rules
 - `adaptation-guide.md` - how to reuse and tailor the scaffold
-- `publishing-order.md` - recommended publication sequence
 
 ## Future Implementation
 - `src/` - implementation scaffold

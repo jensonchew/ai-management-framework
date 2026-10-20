@@ -3,6 +3,18 @@ A practical framework for AI-enabled project, program, and portfolio management,
 
 Use this repository as a reusable baseline, then tailor ownership, controls, and delivery steps to your organization.
 
+## Quick Start
+1. Review `docs/project-charter.md` to define scope, ownership, and success criteria.
+2. Align control boundaries in `docs/security-and-governance-overview.md` and `docs/data-classification.md`.
+3. Run a controlled pilot using `docs/pilot-plan.md` and `docs/implementation-plan.md`.
+4. Track outcomes with `docs/status-report.md`, `docs/status-report-sample.md`, `docs/metrics.md`, and `docs/risk-register.md`.
+5. Expand only after governance and value are validated.
+
+## Who This Is For
+- IT and delivery leaders introducing AI-assisted workflows
+- Technical leads and reviewers establishing operating guardrails
+- Program and portfolio stakeholders evaluating pilot-to-rollout decisions
+
 ## What This Repo Is For
 - A reusable operating model for project, program, and portfolio delivery
 - A structured approach to AI-assisted management and coordination
@@ -56,6 +68,7 @@ Recommended next step: start with `docs/project-charter.md`, then align governan
 - License: `LICENSE`
 - Contribution guidance: `CONTRIBUTING.md`
 - Release checklist: `docs/public-release-checklist.md`
+- Companion article (GitHub Pages): `https://jensonchew.github.io/blog/`
 
 Public repository link:
 `https://github.com/jensonchew/ai-management-framework`

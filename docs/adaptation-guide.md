@@ -3,6 +3,9 @@
 ## Purpose
 Help others adapt this scaffold for their own organization, team, department, project, program, or portfolio.
 
+## Recommended Starting Point
+Begin with the charter, governance baseline, and pilot plan. These three documents establish accountability, control boundaries, and execution sequence before local customization.
+
 ## What to Keep
 - The project/program/portfolio structure
 - The human-in-the-loop governance model

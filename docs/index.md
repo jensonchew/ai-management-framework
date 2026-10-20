@@ -1,7 +1,7 @@
 # Documentation Index
 
 ## Project Overview
-- `project-charter.md` - project purpose, scope, risks, and success criteria
+- `project-charter.md` - initiative purpose, scope, risks, and success criteria
 - `requirements.md` - functional and non-functional requirements
 - `roadmap.md` - phased delivery roadmap
 - `implementation-plan.md` - pilot and rollout approach
@@ -18,7 +18,8 @@
 ## Planning and Execution
 - `use-cases.md` - initial use cases and pilot selection guidance
 - `metrics.md` - how success will be measured
-- `status-report.md` - project status template
+- `status-report.md` - reusable status report template
+- `status-report-sample.md` - professional sample status report
 - `roles-and-responsibilities.md` - ownership and accountability
 - `communications-plan.md` - stakeholder communication approach
 

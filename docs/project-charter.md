@@ -4,10 +4,10 @@
 AI Management Framework
 
 ## Sponsor
-TBD
+Adopting Organization Sponsor (or delegated portfolio/program/project owner)
 
 ## Purpose
-Improve productivity and delivery effectiveness by enabling safe, governed use of AI across approved tools for drafting, analysis, and workflow acceleration.
+Improve productivity and delivery effectiveness through safe, governed use of AI across approved tools for drafting, analysis, and workflow acceleration.
 
 ## Problem Statement
 Organizations and teams often spend substantial time on repetitive and cognitively heavy tasks such as drafting, analysis, documentation, troubleshooting, validation, and incident handling. These activities can slow delivery and reduce time available for higher-value work.
@@ -53,7 +53,7 @@ See also:
 ## Delivery Approach
 - Start with a controlled pilot
 - Validate governance, quality, and adoption
-- Expand use cases after initial success
+- Expand use cases in phases after initial validation
 
 ## Success Criteria
 - Reduced manual effort for repetitive tasks
@@ -84,7 +84,12 @@ See also:
 5. Expand to additional use cases if successful
 
 ## Recommendation
-Proceed with the pilot first, then broaden into a wider AI enablement program once value and governance are confirmed.
+Proceed with a controlled pilot first, then broaden into a wider AI enablement program after value, risk controls, and governance are validated.
+
+Immediate next step: confirm sponsor, pilot participants, and approval checkpoints before pilot kickoff.
+
+## Adoption Note
+This charter is a reusable baseline for adopting organizations. Replace role labels, governance steps, and delivery specifics based on your internal operating model and approval requirements.
 
 See also:
 - `security-and-governance-overview.md` for baseline controls
@@ -92,6 +97,6 @@ See also:
 - `pilot-plan.md` for pilot execution
 
 Related documents:
-- `pilot-plan.md` for the initial trial structure
+- `pilot-plan.md` for the initial pilot structure
 - `roadmap.md` for phased delivery
 - `risk-register.md` for risks and mitigations

@@ -1,7 +1,7 @@
 # Public Sharing Guidelines
 
 ## Purpose
-Help adapt the material in this repo into content suitable for Substack, LinkedIn, X, or a personal blog.
+Help adapt the material in this repository into content suitable for Substack, LinkedIn, X, or a personal blog.
 
 ## Good Practices
 - Keep examples practical and clear
@@ -24,4 +24,4 @@ Help adapt the material in this repo into content suitable for Substack, LinkedI
 - Vendor-specific marketing language unless relevant
 
 ## Reusable Angle
-You can present this repo as a generic management scaffold that shows how AI can support planning, coordination, governance, and reporting across different types of work.
+You can present this repository as a generic management scaffold that shows how AI can support planning, coordination, governance, and reporting across different types of work.

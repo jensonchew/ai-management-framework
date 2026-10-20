@@ -1,28 +1,31 @@
 # Status Report
 
 ## Project
-AI Management Framework
+[Insert Initiative or Project Name]
 
 ## Reporting Period
-TBD
+[Start Date] to [End Date]
 
 ## Overall Status
-TBD
+[Green | Amber | Red]
 
 ## Completed This Period
-- TBD
+- [Milestone, deliverable, or decision completed]
+- [Key activity completed and business impact]
 
 ## In Progress
-- TBD
+- [Current workstream and expected completion date]
+- [Dependency being managed]
 
 ## Upcoming
-- TBD
+- [Next milestone with target date]
+- [Planned stakeholder review or approval]
 
 ## Risks
-- TBD
+- [Risk summary] | Owner: [Name/Role] | Mitigation: [Action underway]
 
 ## Decisions Needed
-- TBD
+- [Decision required] | Needed by: [Date] | Decision owner: [Role]
 
 ## Notes
-- TBD
+- [Additional context, assumptions, or changes in scope]

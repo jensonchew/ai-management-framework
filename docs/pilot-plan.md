@@ -13,7 +13,7 @@ Start with a small group and a limited set of low-risk use cases:
 ## Pilot Participants
 - 2 to 5 users from the relevant team or function
 - 1 technical lead or reviewer
-- 1 project owner or coordinator
+- 1 initiative owner or coordinator
 
 ## Pilot Duration
 3 to 6 weeks

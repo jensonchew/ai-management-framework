@@ -1,7 +1,7 @@
 # Communications Plan
 
 ## Audience
-- Project sponsor
+- Initiative sponsor
 - Pilot users
 - Technical leads
 - Stakeholders affected by the pilot
@@ -21,7 +21,7 @@
 ## Cadence
 - Kickoff communication at the start of the pilot
 - Weekly or biweekly status updates during the pilot
-- Final pilot summary at the end of the trial
+- Final pilot summary at the end of the pilot period
 
 ## Key Messages
 - AI is being used to assist, not replace, staff

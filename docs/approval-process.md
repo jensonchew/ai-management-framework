@@ -5,7 +5,7 @@ Define how pilot use, expansion, and exceptions are reviewed and approved.
 
 ## Approval Stages
 ### Stage 1: Pilot Approval
-- Confirm project purpose
+- Confirm initiative purpose
 - Confirm pilot participants
 - Confirm scope and controls
 

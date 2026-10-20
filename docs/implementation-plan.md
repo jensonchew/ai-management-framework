@@ -1,5 +1,7 @@
 # Implementation Plan
 
+Use this plan to execute in sequence: establish pilot scope, enforce controls, measure outcomes, and expand only after validation.
+
 ## 1. Establish the Pilot
 - Select a small group of developers and support staff
 - Choose a limited set of use cases
@@ -24,6 +26,8 @@
 - Improvement in turnaround time
 - Feedback from pilot users
 - Quality and consistency outcomes
+
+Decision checkpoint: proceed to broader rollout only when value metrics and governance controls are both acceptable.
 
 ## 5. Refine and Expand
 - Review feedback

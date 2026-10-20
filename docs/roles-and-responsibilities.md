@@ -5,8 +5,8 @@
 - Supports governance decisions
 - Reviews pilot outcomes
 
-## Project Owner
-- Coordinates the project
+## Initiative Owner
+- Coordinates the initiative
 - Maintains scope and deliverables
 - Tracks decisions and risks
 

@@ -41,4 +41,4 @@ The initiative should operate in a controlled, auditable, and reviewable way tha
 
 Related documents:
 - `project-charter.md` for the overall initiative scope
-- `pilot-plan.md` for the initial controlled trial
+- `pilot-plan.md` for the initial controlled pilot

@@ -15,5 +15,5 @@ Feasibility-style scoring used by the portal to assess whether a task is suitabl
 ## VES
 Value and risk scoring used by the portal to assess whether a task is worth pursuing and safe enough to proceed.
 
-## Corporate IT
-The internal technology function responsible for applications, support, and related delivery work.
+## Organizational Team
+The function, department, or group responsible for delivery, support, and related operations in a given context.

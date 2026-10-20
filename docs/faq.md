@@ -1,7 +1,7 @@
 # FAQ
 
 ## What is this project?
-It is a Corporate IT initiative to use AI safely and productively for development and support work.
+It is a reusable initiative framework to use AI safely and productively for management, delivery, and support work.
 
 ## Is AI replacing developers?
 No. The model is human-in-the-loop. AI assists with drafting, analysis, and repetitive work, but humans remain accountable.

@@ -1,8 +1,8 @@
 # Decision Log
 
 ## 2026-10-06 - Project framing
-Decision: Frame the effort as an AI-assisted developer productivity initiative for Corporate IT.
-Reason: Aligns with current tool adoption and avoids positioning the work as a replacement for existing IDEs or copilots.
+Decision: Frame the effort as an AI-assisted management and productivity initiative.
+Reason: Aligns with current tool adoption and avoids positioning the work as a replacement for existing platforms.
 
 ## 2026-10-06 - Human-in-the-loop model
 Decision: Keep humans responsible for review and final delivery decisions.

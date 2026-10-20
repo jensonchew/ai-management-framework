@@ -1,7 +1,7 @@
 # Project Charter
 
 ## Project Name
-AI Management Framework Initiative
+AI Management Framework
 
 ## Sponsor
 TBD

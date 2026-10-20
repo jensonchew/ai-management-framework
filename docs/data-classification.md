@@ -1,7 +1,7 @@
 # Data Classification
 
 ## Purpose
-Define how data should be handled when using AI in Corporate IT workflows.
+Define how data should be handled when using AI in organizational workflows.
 
 ## Classification Levels
 - Public: Safe to share broadly

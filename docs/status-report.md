@@ -1,7 +1,7 @@
 # Status Report
 
 ## Project
-AI-Assisted Developer Productivity for Corporate IT
+AI Management Framework
 
 ## Reporting Period
 TBD

@@ -1,7 +1,7 @@
 # Presentation Outline
 
 ## Slide 1: Title
-AI-Assisted Developer Productivity for Corporate IT
+AI Management Framework
 
 ## Slide 2: Problem
 - Repetitive development and support work slows delivery

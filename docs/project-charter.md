@@ -1,7 +1,7 @@
 # Project Charter
 
 ## Project Name
-AI Enablement Initiative
+AI Management Framework Initiative
 
 ## Sponsor
 TBD

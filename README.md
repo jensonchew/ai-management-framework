@@ -68,7 +68,7 @@ Recommended next step: start with `docs/project-charter.md`, then align governan
 - License: `LICENSE`
 - Contribution guidance: `CONTRIBUTING.md`
 - Release checklist: `docs/public-release-checklist.md`
-- Companion article (GitHub Pages): `https://jensonchew.github.io/blog/`
+- Companion article (GitHub Pages): `https://jensonchew.github.io/open-source/ai-management/governance/2026/10/22/why-i-open-sourced-the-ai-management-framework.html`
 
 Public repository link:
 `https://github.com/jensonchew/ai-management-framework`
